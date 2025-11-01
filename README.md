@@ -11,7 +11,7 @@ Through the **Club Management System**, I discovered the power of database desig
 Finally, in **Memory Bottle**, I applied everything I had learned to build a full-stack web application from scratch — with a clear architecture, permission control, and a user-centered design aimed at preserving family memories.
 
 Although I often followed online resources or consulted AI tools for syntax and best practices, every decision — from directory structure to REST API design — was made, tested, and refined by myself.  
-I consider *Memory Bottle* not just a course project, but the culmination of my undergraduate journey: a proof that I can design, build, and iterate a real application on my own.
+I consider *Memory Bottle* can be the culmination of my undergraduate journey: a proof that I can design, build, and iterate a real application on my own.
 
 This portfolio is therefore not only a showcase of projects, but also a reflection of my learning process — how I moved from curiosity to understanding, and from understanding to creation.
 Above all, these projects remind me that learning to build software is also learning to think — systematically, patiently, and creatively.
