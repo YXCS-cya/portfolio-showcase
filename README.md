@@ -123,7 +123,7 @@ The project showcases my competence in **data modeling, database security, and p
 ## 🏎️ Project 4: RacingCar Simulation Game (Unity 3D + AI Pathfinding)
 
 📸 **Project Screenshot**  
-
+![Racing Car Demo](https://github.com/user-attachments/assets/4b35ca07-8256-424c-91c6-8615f222be0b)
 
 🔗 **Repository**  
 - [Repository – Unity 2022.3 + C# + AI Pathfinding](https://github.com/YXCS-cya/RacingCar-GameDemo)
