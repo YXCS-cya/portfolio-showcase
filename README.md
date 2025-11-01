@@ -196,8 +196,17 @@ In my postgraduate studies,
 I aim to further investigate **artificial intelligence, data systems, and human–computer interaction**,  
 and to apply computing technologies to enhance human well-being — particularly in the preservation of memory, emotion, and connection.  
 
+<br>
+
+---
+
 > Technology’s true value lies not only in innovation but in empathy and understanding.  
 > I aspire to continue bridging technology with humanity through meaningful, socially impactful computing.
 
----
+<br>
+
+> *This portfolio is not just a showcase of projects, but a record of how I learned to build, to think, and to persist.  
+> Technology and AI guided me along the way, but it was my curiosity and effort that turned guidance into creation.*
+
+
 **More on [@YXCS-cya](https://github.com/YXCS-cya)**
