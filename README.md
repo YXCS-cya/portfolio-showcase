@@ -1,5 +1,21 @@
 # 🧩 Portfolio Showcase  
 
+## 🎓 Personal Statement — My Learning Journey as a Developer
+
+When I first began studying software engineering, my projects were small and experimental — a simple online chat system, a few games, without any database.  
+Over time, I found myself increasingly fascinated by how structured design and clean architecture could turn scattered ideas into maintainable systems. Each project became a milestone that reflected my growth in both programming logic and problem-solving ability.
+
+Starting from the **Online Chat** project, I learned how network communication and multithreading really work under the hood.  
+In the **RacingCar Demo**, I explored real-time physics and basic AI pathfinding — my first taste of performance tuning and system integration.  
+Through the **Club Management System**, I discovered the power of database design, transaction control, and backend security.  
+Finally, in **Memory Bottle**, I applied everything I had learned to build a full-stack web application from scratch — with a clear architecture, permission control, and a user-centered design aimed at preserving family memories.
+
+Although I often followed online resources or consulted AI tools for syntax and best practices, every decision — from directory structure to REST API design — was made, tested, and refined by myself.  
+I consider *Memory Bottle* not just a course project, but the culmination of my undergraduate journey: a proof that I can design, build, and iterate a real application on my own.
+
+This portfolio is therefore not only a showcase of projects, but also a reflection of my learning process — how I moved from curiosity to understanding, and from understanding to creation.
+Above all, these projects remind me that learning to build software is also learning to think — systematically, patiently, and creatively.
+
 ---
 ## 📘 Table of Contents  
 - [Overview](#-overview)  
