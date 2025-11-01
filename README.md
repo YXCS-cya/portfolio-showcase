@@ -1,6 +1,16 @@
 # 🧩 Portfolio Showcase  
 
 ---
+## 📘 Table of Contents  
+- [Overview](#-overview)  
+- [Research Interests](#-research-interests)  
+- [Project 1: Memory Bottle (Full-Stack Memory Archiving System)](#project-1)
+- [Project 2: Java Instant Messaging System (Online-Chat)](#project-2)
+- [Project 3: Club Management System (Database Application)](#project-3)
+- [Project 4: RacingCar Simulation Game (Unity 3D + AI Pathfinding)](#project-4)
+- [Integrated Skills & Future Direction](#-integrated-skills--future-direction)  
+
+---
 
 ## 🎯 Overview  
 
@@ -8,6 +18,16 @@ This portfolio presents a collection of software engineering projects that I ind
 The works cover **full-stack web system design, network communication, database application development, and 3D simulation** —  
 demonstrating my integrated abilities in **software architecture, object-oriented programming, data management, and system optimization**,  
 as well as my ongoing effort to connect technology with real-world social value.  
+
+
+### 🧩 Technical Summary  
+
+| Project | Domain | Core Technologies | Focus |
+|----------|---------|------------------|--------|
+| **Memory Bottle** | Full-Stack Web System | Spring Boot, MySQL, React, RESTful API | End-to-end system design & emotional computing |
+| **Online Chat** | Network Programming | Java, TCP/IP, Multi-threading, Swing | Concurrent communication system |
+| **Club Manage** | Database Application | SQL Server, JDBC, Power Designer | Transaction & security control |
+| **RacingCar Game** | Graphics & Simulation | Unity, C#, Bézier AI Pathfinding | Real-time physics & AI simulation |
 
 ---
 
@@ -22,7 +42,7 @@ Throughout multiple independent and team projects, I have aimed to use technolog
 This philosophy is best embodied in my flagship project, **Memory Bottle**, a digital memory-preserving platform designed for families affected by memory loss.  
 
 ---
-
+<a id="project-1"></a>
 ## 🌟 Project 1: Memory Bottle (Full-Stack Memory Archiving System)
 
 📸 **Project Screenshot**  
@@ -55,7 +75,7 @@ I independently designed and implemented the entire system, from architecture an
 This project demonstrates my strength in **full-stack development, system integration, and user-experience design**.  
 
 ---
-
+<a id="project-2"></a>
 ## 💬 Project 2: Java Instant Messaging System (Online-Chat)
 
 📸 **Project Screenshot**  
@@ -87,7 +107,7 @@ I independently built the communication framework, concurrency management, and c
 The system reflects my understanding of **network programming fundamentals and concurrent system design**.  
 
 ---
-
+<a id="project-3"></a>
 ## 🧩 Project 3: Club Management System (Database Application)
 
 📸 **Project Screenshot**  
@@ -119,7 +139,7 @@ I was responsible for database schema design, transaction logic, and query optim
 The project showcases my competence in **data modeling, database security, and performance tuning**.  
 
 ---
-
+<a id="project-4"></a>
 ## 🏎️ Project 4: RacingCar Simulation Game (Unity 3D + AI Pathfinding)
 
 📸 **Project Screenshot**  
@@ -164,3 +184,4 @@ and to apply computing technologies to enhance human well-being — particularly
 > I aspire to continue bridging technology with humanity through meaningful, socially impactful computing.
 
 ---
+**More on [@YXCS-cya](https://github.com/YXCS-cya)**
