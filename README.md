@@ -203,10 +203,12 @@ and to apply computing technologies to enhance human well-being — particularly
 > Technology’s true value lies not only in innovation but in empathy and understanding.  
 > I aspire to continue bridging technology with humanity through meaningful, socially impactful computing.
 
-<br>
+Looking back on those projects above, I feel truly grateful for my entire journey from learning to practice.   
+Thanks to this period: 2024.4 – Online Chat → 2024.11 – RacingCar → 2024.12 – Club Manage → 2025 – Memory Bottle
 
 > *This portfolio is not just a showcase of projects, but a record of how I learned to build, to think, and to persist.  
 > Technology and AI guided me along the way, but it was my curiosity and effort that turned guidance into creation.*
 
+<br>
 
 **More on [@YXCS-cya](https://github.com/YXCS-cya)**
