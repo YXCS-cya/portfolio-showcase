@@ -76,6 +76,7 @@ This philosophy is best embodied in my flagship project, **Memory Bottle**, a di
 **Memory Bottle** is a digital archiving and emotional-support platform designed for elderly users and families experiencing memory decline or Alzheimer’s.  
 It enables users to record, revisit, and interact with personal memories through text and multimedia timelines.  
 The backend is built with **Spring Boot + MySQL**, and the frontend with **React + Vite**, forming a complete full-stack system supporting timeline display, media upload, and comment interaction.  
+> The full-stack functionality (frontend + backend) was successfully verified locally via API and UI integration.
 
 ### System Architecture  
 The backend follows a layered structure (Controller / Service / Repository) and exposes RESTful APIs verified via Apifox.  
@@ -213,4 +214,6 @@ Thanks to this period: 2024.4 – Online Chat → 2024.11 – RacingCar → 2024
 
 <br>
 
-**More on [@YXCS-cya](https://github.com/YXCS-cya)**
+**More on [@YXCS-cya](https://github.com/YXCS-cya)**  
+Contact  chenyaoan26@163.com
+
