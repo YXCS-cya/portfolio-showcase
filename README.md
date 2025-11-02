@@ -1,5 +1,7 @@
 # 🧩 Portfolio Showcase  
 
+> 💡 For reviewers: Each project below links to its GitHub repository.
+
 ## 🎓 Personal Statement — My Learning Journey as a Developer
 
 When I first began studying software engineering, my projects were small and experimental — a simple online chat system, a few games, without any database.  
